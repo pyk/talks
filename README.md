@@ -17,5 +17,6 @@ Notes:
 Link to the event page: [here](https://fbdevc-mlg-meetup-201702.splashthat.com)
 
 Slides:
+
 1. [Intent Classifier with Facebook fastText](https://www.slideshare.net/bayual/intent-classifier-with-facebook-fasttext)
 
