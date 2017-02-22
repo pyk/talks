@@ -11,3 +11,11 @@ Slides:
 Notes:
 
 1. [Clustering Semantically Similar Words](./dsw-jogja-2016/notes-clustering-semantically-similar-words.pdf)
+
+## Facebook Developer Circle
+
+Link to the event page: [here](https://fbdevc-mlg-meetup-201702.splashthat.com)
+
+Slides:
+1. [Intent Classifier with Facebook fastText](https://www.slideshare.net/bayual/intent-classifier-with-facebook-fasttext)
+
