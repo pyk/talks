@@ -20,3 +20,10 @@ Slides:
 
 1. [Intent Classifier with Facebook fastText](https://www.slideshare.net/bayual/intent-classifier-with-facebook-fasttext)
 
+## Data Camp Jatim
+
+Slides:
+
+1. [Pengantar Machine Learning](./data-camp-jatim/datacampjatim-pengantar-machine-learning.pdf)
+2. [Penerapan Machine Learning](./dsw-jogja-2016/notes-clustering-semantically-similar-words.pdf))
+
