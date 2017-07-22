@@ -22,7 +22,7 @@ Slides:
 
 ## Data Camp Jatim
 
-Slides:
+Slides & Notes:
 
 1. [Pengantar Machine Learning](./data-camp-jatim/datacampjatim-pengantar-machine-learning.pdf)
 2. [Penerapan Machine Learning](./dsw-jogja-2016/notes-clustering-semantically-similar-words.pdf)
